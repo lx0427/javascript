@@ -24,4 +24,4 @@ function packageMaxValue(weight, value, size) {
   return bagMatrix
 }
 var xxx = packageMaxValue(weight, value, 10)
-xxx
+console.log(xxx)
